@@ -1,0 +1,4 @@
+interface:
+  display_name: "Astro Blog Content Publisher"
+  short_description: "SaaS articles: research, SEO/GEO, editing, Astro publishing"
+  default_prompt: "Используй $astro-blog-content-publisher, чтобы подготовить статью для блога Astro, проверить SEO/GEO и выполнить запрошенный этап публикации."

@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "skills": [
+    {
+      "name": "product-marketing-context",
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "revision": "local-snapshot:124cc5fac58ca09b7845723fe05dacc99c31dfc4a36810535447b8a17142b8ff",
+      "sourcePath": "skills/product-marketing-context",
+      "license": "MIT",
+      "bundledPath": "vendor/skills/product-marketing-context",
+      "provenance": {
+        "kind": "local-snapshot",
+        "upstreamRevision": "365b412152b9542499ca1439426f7fc3cc92bb65",
+        "upstreamRevisionPurpose": "License verification and source context; not a claim that local snapshot matches this commit.",
+        "localSkillFolderHash": "633cdcf2293799e84a37b14361f9439045b2c1a8"
+      },
+      "files": {
+        "LICENSE.txt": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591",
+        "SKILL.md": "e80bbfe3c243ccc39f238dc9bc64ec4a4f9ff0af366a5b17081b92bac69902e4"
+      }
+    },
+    {
+      "name": "content-strategy",
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "revision": "local-snapshot:dd79d2881b4118923f73ecd518341c8229da42959081decfbedf542845fb6bb6",
+      "sourcePath": "skills/content-strategy",
+      "license": "MIT",
+      "bundledPath": "vendor/skills/content-strategy",
+      "provenance": {
+        "kind": "local-snapshot",
+        "upstreamRevision": "365b412152b9542499ca1439426f7fc3cc92bb65",
+        "upstreamRevisionPurpose": "License verification and source context; not a claim that local snapshot matches this commit.",
+        "localSkillFolderHash": "8a2387b41d046b1b5a72a346103120b3c28e8bf5"
+      },
+      "files": {
+        "LICENSE.txt": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591",
+        "SKILL.md": "0611532b2a0dce8d0d5b783c99bba10d13a6d5fd7eecd829974012f74ea33258",
+        "references/headless-cms.md": "bc40f9b5dcec1ef407684826dfa67841a187960fd2c901d94e0910c97840f356"
+      },
+      "patches": [
+        "Replace three unavailable upstream CMS integration links with official provider documentation."
+      ]
+    },
+    {
+      "name": "content-research-writer",
+      "source": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "revision": "local-snapshot:27c22c5bc572f432536b0c427097f92daeaeafe16f65a7cf016cbfabce347200",
+      "sourcePath": "content-research-writer",
+      "license": "Apache-2.0",
+      "bundledPath": "vendor/skills/content-research-writer",
+      "provenance": {
+        "kind": "local-snapshot",
+        "upstreamRevision": "be2a406907dbc61b73e6827ded415c96139d13a2",
+        "upstreamRevisionPurpose": "License verification and source context; not a claim that local snapshot matches this commit.",
+        "localSkillFolderHash": null
+      },
+      "files": {
+        "LICENSE.txt": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+        "SKILL.md": "27eb5c1a0a88a9c1c64f6fcd9c28782e6a6e70d5da43233c4e99ade946f74825",
+        "UPSTREAM-LICENSE-DECLARATION.md": "a06c4e87521e1cf777e367b528d231b9708b93b0c49a2e6348c17a6f729ba9a5"
+      }
+    },
+    {
+      "name": "seo-content-brief",
+      "source": "https://github.com/agricidaniel/claude-seo",
+      "revision": "local-snapshot:5c97980afef7231b94d72ffc2e0251a30f25824b0661abc81385f9a8185155a9",
+      "sourcePath": "skills/seo-content-brief",
+      "license": "MIT",
+      "bundledPath": "vendor/skills/seo-content-brief",
+      "provenance": {
+        "kind": "local-snapshot",
+        "upstreamRevision": "4b99de2f7de7e7d5247042e5fb5b4ea9368ef734",
+        "upstreamRevisionPurpose": "License verification and source context; not a claim that local snapshot matches this commit.",
+        "localSkillFolderHash": null
+      },
+      "files": {
+        "LICENSE.txt": "a42b3b0253cecea9af810c5207a67b0be8c9a0cfbf52b9302c3d26b063e7a86b",
+        "SKILL.md": "bdca005f46877fcab89bcedb3fa3cab40240e51a1617ad5a13ede7edd200ed16",
+        "references/excluded-domains.md": "17b3fb0c9f0cd979c949d54a3e88eb7b39b5d3514baaaa0560022b16c3ed32b8",
+        "references/keyword-density.md": "5f66b7516fda29ca43b4db64874ad445390a3eacfe3c6e99bee2f45b3c7ab348",
+        "references/page-type-templates.md": "ac638c16ee6ef871d07d8d8172e23a491e11e5e9734f5a5f9ac070631156fd6d"
+      }
+    },
+    {
+      "name": "seo-audit",
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "revision": "local-snapshot:b543cf5c18bcf8608825a4f46c3129c9c16c3ef8845cc942aa9ce6866b681a04",
+      "sourcePath": "skills/seo-audit",
+      "license": "MIT",
+      "bundledPath": "vendor/skills/seo-audit",
+      "provenance": {
+        "kind": "local-snapshot",
+        "upstreamRevision": "365b412152b9542499ca1439426f7fc3cc92bb65",
+        "upstreamRevisionPurpose": "License verification and source context; not a claim that local snapshot matches this commit.",
+        "localSkillFolderHash": "0f1f5e31ce921513828ac8f440f358df6fa0751a"
+      },
+      "files": {
+        "LICENSE.txt": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591",
+        "SKILL.md": "3b03a2e07578e9964acac0b6907ae343a904c6547bfefe779ba326db5eedd1cb",
+        "references/ai-writing-detection.md": "f1e273f56ce7e2215ff218bf903680ddcec0fd026ab90c3ebfb3439ed0edfaa4",
+        "references/international-seo.md": "d2fc76f40eccc422ae0f1d7e5b770095e89a045f38e1d0370811203da57996ff"
+      }
+    },
+    {
+      "name": "ai-seo",
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "revision": "local-snapshot:b7267192742539cbb4a73730a6f5cb967be684a9cfad7319576acab387136ff7",
+      "sourcePath": "skills/ai-seo",
+      "license": "MIT",
+      "bundledPath": "vendor/skills/ai-seo",
+      "provenance": {
+        "kind": "local-snapshot",
+        "upstreamRevision": "365b412152b9542499ca1439426f7fc3cc92bb65",
+        "upstreamRevisionPurpose": "License verification and source context; not a claim that local snapshot matches this commit.",
+        "localSkillFolderHash": "07cb46667e8af9f861d0543f9814328b0b474580"
+      },
+      "files": {
+        "LICENSE.txt": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591",
+        "SKILL.md": "affc8fdc8a01109f41cc92eea32007dcdd3741e1d480768a85fd39e909c00cbd",
+        "references/content-patterns.md": "7f32aab75574788fbee572dac9fe177e63b21fce672ef863246bd4778fc29a3b",
+        "references/content-types.md": "9e846fa15d552e69557eff8683dd08ababd5e168e5ba8789b86e174f37c2673c",
+        "references/platform-ranking-factors.md": "4004b3d9d562f98273a0048c48af6a46040ed800b1a1ccb958b299217860a623"
+      },
+      "patches": [
+        "Replace unavailable upstream tools registry link with portable host-tools guidance."
+      ]
+    },
+    {
+      "name": "copy-editing",
+      "source": "https://github.com/coreyhaines31/marketingskills",
+      "revision": "local-snapshot:a9cc69bca3adefea58f00556496b433e6fe38eed958117db57347905ebc6e8cc",
+      "sourcePath": "skills/copy-editing",
+      "license": "MIT",
+      "bundledPath": "vendor/skills/copy-editing",
+      "provenance": {
+        "kind": "local-snapshot",
+        "upstreamRevision": "365b412152b9542499ca1439426f7fc3cc92bb65",
+        "upstreamRevisionPurpose": "License verification and source context; not a claim that local snapshot matches this commit.",
+        "localSkillFolderHash": "4d29a5bcbbf92f159f713c17db9d3d0bf6217b48"
+      },
+      "files": {
+        "LICENSE.txt": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591",
+        "SKILL.md": "9b5a20be3dc5513c8f0b4f4c4960857e4d28ed83698a5b33c8dde9dc75a47bf6",
+        "references/checklist.md": "db143b969b45b0933fe6eb772992890d1472d036a6c887fc98665e4fb48da43c",
+        "references/content-refresh.md": "8a3a2d301bb2b8b2a780f5bef43093ab42295041b2fea2a9caeca2421ef3c79b",
+        "references/plain-english-alternatives.md": "df4f820d4c63ae8a517c64a243c101658352cd07d002355bf3c97de0a00f3775"
+      }
+    },
+    {
+      "name": "english-humanizer",
+      "source": "https://github.com/kambleakash0/agent-skills",
+      "revision": "local-snapshot:2a439a45447fedfa0a0f0d877b1bf1f878af113628be3e6216ce25a13bb22cc7",
+      "sourcePath": "skills/english-humanizer",
+      "license": "MIT",
+      "bundledPath": "vendor/skills/english-humanizer",
+      "provenance": {
+        "kind": "local-snapshot",
+        "upstreamRevision": "925f063e8751067fdf0b311cb7b6c42f282cb3ea",
+        "upstreamRevisionPurpose": "License verification and source context; not a claim that local snapshot matches this commit.",
+        "localSkillFolderHash": "52a7d7e436dd07aa2a69503b21bcd195d3fa43a6"
+      },
+      "files": {
+        "LICENSE.txt": "a203892c3308a261ca682ad4a88e7799a31056f0e6c593e83a2fa97f3bad762f",
+        "SKILL.md": "968d4af017d724271ae5f09bbaafdbf7f6c324118bc706217bb1e476d792d9ff",
+        "resources/references.md": "e7b4003510087eb575cbdd9155e740107ebe4ec4d925ad37407731a4e99648d2"
+      }
+    },
+    {
+      "name": "humanizer-ru",
+      "source": "https://github.com/vladimir-human/humanizer-ru",
+      "revision": "local-snapshot:c61910021afd56f3130be3102fb22d859ecc5a92b1549595d3c06fdf95db010b",
+      "sourcePath": ".",
+      "license": "MIT",
+      "bundledPath": "vendor/skills/humanizer-ru",
+      "provenance": {
+        "kind": "local-snapshot",
+        "upstreamRevision": "9922280b6bfc83a7947442f2141fe649b35e0f33",
+        "upstreamRevisionPurpose": "License verification and source context; not a claim that local snapshot matches this commit.",
+        "localSkillFolderHash": "9a661629086c8769ded9437378d057063da35a4f"
+      },
+      "files": {
+        "LICENSE.txt": "b0057afb49cd823e36f2188bd58650978e523ee69388a2edbd0bbbabd924ef5d",
+        "SKILL.md": "4103cbc6d7e312424d895ef9d0ffc2348c7d8e9fe9fcea0f15767e5a532c1a23",
+        "references/chatbot-artifacts.md": "ac26e1af4f11cfd77025334fa3181966b107f0fabc738d4115facec611bbdddb",
+        "references/communication-patterns.md": "4247a8ea5fed537d9c33df41d1768e533ce1fab3ebba2e5278dab5ff38108473",
+        "references/content-patterns.md": "cf0761136c53e5a60bf69b1d1cbb594a0babc616ed3f70df9f2b72526c83bc4a",
+        "references/false-positives.md": "713704bb00201d1a72d9756e02ae982155f8ae874c24f2c96fba0132b2d39f3e",
+        "references/language-patterns.md": "40acc8acf0577ee5d87d7a9b80ee74f9f38325ec6bab5dbbf0afce6487721b99",
+        "references/llm-fingerprints.md": "14f3fcbf98f75c717cf78c5270b1a8989c5d2986dba54e4b79426dc225ea5588",
+        "references/source-fabrication.md": "3a70a95c1d834d84804b5fb6638d4ee878300e90406ff1647ace4225431167b9",
+        "references/structural-style-patterns.md": "8b3d04d7fd36be99470a06347db02e01e54fbbdbbd1ad5057a7e68b5ea7eeb46",
+        "references/test-fixtures.md": "ed9f6ed90f323925e13d95b1e90edd4a1200fc1a043f75152c3b3dbcdc382765",
+        "scripts/check_markers.py": "feaa73ffa495f85b5cedfdb5ff59b8b90c1734681144636afba8b8697dd2cfd0"
+      }
+    },
+    {
+      "name": "webapp-testing",
+      "source": "https://github.com/anthropics/skills",
+      "revision": "local-snapshot:bc1118b73ac37deda9b644a81b1b73d09cbc670b1f3d6e2a367ca50d654f6e74",
+      "sourcePath": "skills/webapp-testing",
+      "license": "Apache-2.0",
+      "bundledPath": "vendor/skills/webapp-testing",
+      "provenance": {
+        "kind": "local-snapshot",
+        "upstreamRevision": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+        "upstreamRevisionPurpose": "License verification and source context; not a claim that local snapshot matches this commit.",
+        "localSkillFolderHash": "5ffb7dc66b9fd4c25c3e400a4c00da99a349b714"
+      },
+      "files": {
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362",
+        "SKILL.md": "51b7349e77ec63b7744a6f63647e7566a0b4d2e301121cc10e8c2113af6556a2",
+        "examples/console_logging.py": "ea46877289acb82da7e7ce59d0bc37c8977cd57e2a006d0c88d7a1c625bf95da",
+        "examples/element_discovery.py": "d63c89604a22f8845d724e95dda45db49b1bf57c25ce0a83afbb7b8da3d402f0",
+        "examples/static_html_automation.py": "9d533aafb875ee3ab8b8ebf8f5b9003ac8d999da3d09b285cce252e623140064",
+        "scripts/with_server.py": "b0dcf4918935b795f4eda9821579b9902119235ff4447f687a30286e7d0925fd"
+      }
+    },
+    {
+      "name": "astro-framework",
+      "source": "https://github.com/delineas/astro-framework-agents",
+      "revision": "3e32c91cc433424e162472b81afaa5e9324669bb",
+      "sourcePath": "skills/astro-framework",
+      "license": "MIT",
+      "bundledPath": "vendor/skills/astro-framework",
+      "discoveryUrl": "https://skills.sh/delineas/astro-framework-agents/astro-framework",
+      "files": {
+        "LICENSE.txt": "b0bda329e1c57760d74f895e4f3f9fbf964df4bb0585822a3b2207edbf21869d",
+        "SKILL.md": "4918d51156e8acc3d7e13ea2d4f5203149615b9ee8dafc729fc87fdea0e98487",
+        "references/actions.md": "fb8bf9851f90fb6e972c17d30e381dfdb2dd30c4a313b020491720d1e28ed54b",
+        "references/client-directives.md": "afefec9f602ad5741ffc6c81376a1d00d251acde0a55c4c32c5b253518bd48d6",
+        "references/components.md": "caab3735ec58990967f419a370f52a92dae52de84b660ecd92b807fe6003c828",
+        "references/configuration.md": "0054a28f7dd55ee173f8b32e34a8e06bc3e9b9eecea112c9c853b7f2891b2fd3",
+        "references/content-collections.md": "2870952225582a8cae9fd61e46aaf79fada95d3c15083f65e1563551306a2fca",
+        "references/environment-variables.md": "03f0259a2dd7c6e73ec5bf20025703f8727b3c781f2a93f1120c1b631eeb2cdf",
+        "references/i18n-routing.md": "87f5993cd19b323f797305f9e80672ffb130c8d08b13111091464ba3c823efca",
+        "references/images.md": "2b9699c97255fd497f888d525c95707a797c8f658caadaa5e4826283f362e47d",
+        "references/middleware.md": "ca084951bcff195dc88c3a9c10dd5e51556fd89713f8347c4abf6ff4adcaa205",
+        "references/routing.md": "b3db6b35375c63275c15ab1897c22df09314a104a46d2162989414b03346e624",
+        "references/server-islands.md": "b61a3920b9f9469d253b405c6d9877a4e88f1a757f2a5d1ad4d20057308be2aa",
+        "references/sessions.md": "5d826ad41324b23596d6c876f1350b9cf4895cfcef64c46efb46eb4a5a1c7bda",
+        "references/ssr-adapters.md": "7a922cf9971f24882d151231af1fd12f22f53dddad310da93d661a2298a85e66",
+        "references/styling.md": "bf9582b0fe1e5fe4ad22798697f72c7e16fbe1afcf70bd3bcada534027319f97",
+        "references/view-transitions.md": "e2a0491f4337ec1916b83c30840b6618758ee9baff515b98c0f8114c614d3c1a",
+        "rules/astro-components.rule.md": "aa9d59603482715a8845b77bbf503399f6b6e76faa4b5a6bd4bdf289c2c0454b",
+        "rules/astro-images.rule.md": "38ceff0706295e7d83a950242b98498b7e03c9569b9c695635bcda44fd717420",
+        "rules/astro-routing.rule.md": "0af2912987a4fa9ffdf679665d375fe6aecc3d1acf82fb459d6d4ef3a8c325f1",
+        "rules/astro-ssr.rule.md": "03656649709333ceab9e50f4304b6b0b46f2b9225c6fa77fbb104fac01b67bb2",
+        "rules/astro-typescript.rule.md": "4800d8375916f99355baa682a99e9196aded1db616d7ea595c525b3c3c1a55f9",
+        "rules/client-hydration.rule.md": "261e55184fa5412c8f34a9702d69680e484750a8e2a84dc2d4ae6ef8d2da57c3",
+        "rules/content-collections.rule.md": "f97235dd48470c68ab80fe702b10dfe28342f00ec670de7ec55a11a57185f2d6",
+        "rules/server-islands.rule.md": "32a3d76540b5bee4ec14bfa6905ce52c7ccfff6311e3bb6fdb601c86eef1ea7d",
+        "rules/sessions.rule.md": "acd02af967a1421b32efa25aa52e2efd3694ebc66b70f409e8e42e8bbf362723"
+      }
+    },
+    {
+      "name": "seo-content",
+      "source": "https://github.com/agricidaniel/claude-seo",
+      "revision": "4b99de2f7de7e7d5247042e5fb5b4ea9368ef734",
+      "sourcePath": "skills/seo-content",
+      "license": "MIT",
+      "bundledPath": "vendor/skills/seo-content",
+      "patches": [
+        "Adapt plugin-relative resources to bundled references; replace optional plugin scripts with portable editorial and primary-source workflows.",
+        "Replace unavailable FLOW slash commands with editorial follow-up using bundled seo-audit, ai-seo, and copy-editing."
+      ],
+      "files": {
+        "LICENSE.txt": "a42b3b0253cecea9af810c5207a67b0be8c9a0cfbf52b9302c3d26b063e7a86b",
+        "SKILL.md": "37fab8235345b8ffecb2e59c8b8059f5d8a89ec761685ec318136b8ab9d7eed1",
+        "references/eeat-framework.md": "7d1f45cc9f42e9208c936af9e0d57dbdf29e52e733b5a8bed6eb65fa19475972",
+        "references/eeat-scoring-guide.md": "da90342f0c97af529345d7824147c0a19c1a20de57d1470150c8838f5c445228"
+      }
+    }
+  ]
+}

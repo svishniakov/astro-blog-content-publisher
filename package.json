@@ -1,0 +1,15 @@
+{
+  "name": "astro-blog-content-publisher",
+  "version": "0.1.0",
+  "description": "Install an Astro blog publishing skill and its pinned companion skills offline.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "bin": { "astro-blog-content-publisher": "bin/astro-blog-content-publisher.mjs" },
+  "files": ["bin/", "lib/", "scripts/", "skills/", "vendor/", "docs/", "skills-lock.json", "README.md", "THIRD_PARTY_NOTICES.md", "LICENSE"],
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate.mjs",
+    "smoke": "node scripts/smoke-package.mjs"
+  }
+}
